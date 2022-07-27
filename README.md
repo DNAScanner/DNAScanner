@@ -1,5 +1,5 @@
 # About Me
-Hey, I'm Liam aka DNA. I mostly code something in msdos or minecraft.
+Hey, I'm Liam aka DNA. I mostly code something in (Windows) Batch or JavaScript.
 
 # Stats
 [![](https://github-readme-stats.vercel.app/api?username=dnascanner&show_icons=true&theme=merko)](https://dnascanner.de)
