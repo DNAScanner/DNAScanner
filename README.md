@@ -8,4 +8,4 @@ Hey, I'm Liam aka DNA. I mostly code something in (Windows) Batch or JavaScript.
 
 # Links
 - [Website](https://dnascanner.de)
-- [Socials](https://dnascanner.de/socials)
+- [Socials](https://dnascanner.de/#socials)
