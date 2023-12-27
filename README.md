@@ -1,5 +1,6 @@
 # About Me
-Hey, I'm Liam aka DNA. I mostly code something in (Windows) Batch or JavaScript.
+Hey! 👋
+Im DNA, a full-stack developer from Germany. I'm usually working with TypeScript and Deno, some projects being smaller and some larger. 
 
 # Stats
 [![](https://github-readme-stats.vercel.app/api?username=dnascanner&show_icons=true&theme=merko)](https://dnascanner.de)
